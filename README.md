@@ -1,1 +1,5 @@
-# Grupo_7_Taller_Python_Series
+# TAREA
+# Este repositorio contiene
+Tarea 1
+Tarea 2
+Tarea 3
