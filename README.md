@@ -1,5 +1,5 @@
 # TAREA
-Este repositorio contiene
+Este repositorio contiene:
 
 Tarea 1
 
